@@ -29,7 +29,7 @@ Parte del material de este curso se imparte en el [Curso de extensión universit
 
     - **[Quantum Phase Estimation (QPE)](./Notebooks/Part_01/Chapter_11-QPE.ipynb)**
 
-    - **[Shor: Implementación (ad hoc) en Qiskit para $N=15$](./Notebooks/Part_01/Chapter_12-Shor_Algorithm_simple.ipynb)**
+    - <a href="https://colab.research.google.com/github.com/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_12-Shor_Algorithm_simple.ipynb"> Shor: Implementación (ad hoc) en Qiskit para $N=15$ </a>
 
     - **[Algoritmo de Grover ](./Notebooks/Part_01/Chapter_13-Grover_Algorithm.ipynb)**
 
