@@ -3,34 +3,36 @@
 Parte del material de este curso se imparte en el [Curso de extensión universitaria en Computación Cuántica](https://quant.uma.es/curso-de-extension-universitaria-en-computacion-cuantica/
 ) de la Universidad de Málaga, en los bloques 2 (Arquitecturas Cuánticas) y 3 (Algoritmos Cuánticos).
 
-## Índice
+## Índice de Notebooks
+(Pinchando en los siguientes enlaces, los notebooks se abren en Google Colab)
 
-- **[ Notebooks con ejemplos](./Notebooks/Part_01)**
+- **[Carpeta con los Notebooks](./Notebooks/Part_01)**
 
-    - **[Fundamentos de Mecánica Cuántica](./Notebooks/Part_01/Chapter_01-Fundamentos_MC_evolucion_temporal.ipynb)**
 
-    - **[Vectores de estado y la esfera de Bloch](./Notebooks/Part_01/Chapter_02-Estados_y_Esfera_de_Bloch.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_01-Fundamentos_MC_evolucion_temporal.ipynb"> Fundamentos de Mecánica Cuántica </a>
 
-    - **[Circuitos de un qúbit y HardWare real ](./Notebooks/Part_01/Chapter_03-Circuitos_1_qubit_medidas_y_RealHardware.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_02-Estados_y_Esfera_de_Bloch.ipynb"> Vectores de estado y la esfera de Bloch </a>
 
-    - **[Circuitos multiqúbit ](./Notebooks/Part_01/Chapter_04-Circuitos_Multiqubits.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_03-Circuitos_1_qubit_medidas_y_RealHardware.ipynb"> Circuitos de un qúbit y HardWare real </a>
 
-    - **[Medidas II](./Notebooks/Part_01/Chapter_05-Medidas_II.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_04-Circuitos_Multiqubits.ipynb"> Circuitos multiqúbit </a>
 
-    - **[Entrelazamiento](./Notebooks/Part_01/Chapter_06-Entrelazamiento.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_05-Medidas_II.ipynb"> Medidas II </a>
 
-    - **[Elementos básicos de los algoritmos cuánticos](./Notebooks/Part_01/Chapter_07-Elementos_Basicos.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_06-Entrelazamiento.ipynb"> Entrelazamiento </a>
 
-    - **[Oráculos (funciones digitales](./Notebooks/Part_01/Chapter_08-Estado_inicial_y_oraculo.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_07-Elementos_Basicos.ipyn"> Elementos básicos de los algoritmos cuánticos </a>
 
-    - **[Algoritmos del Oráculo](./Notebooks/Part_01/Chapter_09-Busqueda_Oracula.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_08-Estado_inicial_y_oraculo.ipynb"> Oráculos (funciones digitales)  </a>
 
-    - **[Quantum Fourier Transform (QFT) ](./Notebooks/Part_01/Chapter_10-QFT.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_09-Busqueda_Oracula.ipynb"> Algoritmos del Oráculo </a>
 
-    - **[Quantum Phase Estimation (QPE)](./Notebooks/Part_01/Chapter_11-QPE.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_10-QFT.ipynb"> Quantum Fourier Transform (QFT) </a>
 
-    - <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_12-Shor_Algorithm_simple.ipynb"> Shor: Implementación (ad hoc) en Qiskit para $N=15$ </a>
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_11-QPE.ipynb"> Quantum Phase Estimation (QPE) </a>
 
-    - **[Algoritmo de Grover ](./Notebooks/Part_01/Chapter_13-Grover_Algorithm.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_12-Shor_Algorithm_simple.ipynb"> Shor: Implementación (ad hoc) en Qiskit para $N=15$ </a>
 
-    - **[Quantum Key Distribution - BB84 ](./Notebooks/Part_01/Chapter_14_QKD.ipynb)**
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_13-Grover_Algorithm.ipynb"> Algoritmo de Grover </a>
+
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_14_QKD.ipynb"> Quantum Key Distribution - BB84 </a>
