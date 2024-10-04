@@ -21,7 +21,7 @@ Parte del material de este curso se imparte en el [Curso de extensión universit
 
 - <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_06-Entrelazamiento.ipynb"> Entrelazamiento </a>
 
-- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_07-Elementos_Basicos.ipyn"> Elementos básicos de los algoritmos cuánticos </a>
+- <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_07-Elementos_Basicos.ipynb"> Elementos básicos de los algoritmos cuánticos </a>
 
 - <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_08-Estado_inicial_y_oraculo.ipynb"> Oráculos (funciones digitales)  </a>
 
